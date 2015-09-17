@@ -8,6 +8,7 @@
 
 (evil-leader/set-key
   "<SPC>" 'ace-jump-mode
+  "mg" 'magit-status
   "ff" 'find-file
   "fs" 'save-buffer
   "uu" 'paredit-wrap-round
