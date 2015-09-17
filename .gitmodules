@@ -1,0 +1,18 @@
+[submodule "vendor/evil"]
+	path = vendor/evil
+	url = https://github.com/farisnasution/evil
+[submodule "vendor/key-chord"]
+	path = vendor/key-chord
+	url = https://github.com/emacsmirror/key-chord
+[submodule "vendor/evil-paredit"]
+	path = vendor/evil-paredit
+	url = https://github.com/roman/evil-paredit
+[submodule "vendor/evil-leader"]
+	path = vendor/evil-leader
+	url = https://github.com/cofi/evil-leader.git
+[submodule "vendor/evil-surround"]
+	path = vendor/evil-surround
+	url = https://github.com/timcharper/evil-surround.git
+[submodule "vendor/evil-nerd-commenter"]
+	path = vendor/evil-nerd-commenter
+	url = https://github.com/redguardtoo/evil-nerd-commenter.git
